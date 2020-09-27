@@ -105,5 +105,5 @@ window.onload = function () {
 	$("add").onclick = addLevels;
 	$("display_results").onclick = calculateResults;
 	$("reset").onclick = reset;
-	console.log("Hello from SnD ACiD RAiN");
+	console.log("Hello");
 };
